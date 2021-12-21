@@ -1,18 +1,12 @@
-
 {
-  "name": "INMEMDB",
+  "name": "in-mem-db",
   "version": "1.0.0",
-  "description": "",
+  "description": "Created my own In Memory Database",
   "main": "app.js",
   "scripts": {
-    "start": "node ."
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
-  "keywords": [],
-  "author": "Mayank Chauhan",
+  "author": "Harsh Singh",
   "license": "ISC",
   "dependencies": {
     "clone": "^2.1.2"
